@@ -1,35 +1,5 @@
 fips_code,county_name,state,temperature
 06075,San Francisco,CA,53.7
-06075,San Francisco,CA,53.6
-06075,San Francisco,CA,58.2
-06075,San Francisco,CA,54.2
-06075,San Francisco,CA,58.8
-06075,San Francisco,CA,54.1
-06075,San Francisco,CA,58.1
-06075,San Francisco,CA,56.3
-06075,San Francisco,CA,54.1
-06075,San Francisco,CA,56.6
-06075,San Francisco,CA,55.6
-06075,San Francisco,CA,51.9
-06075,San Francisco,CA,56.6
-06075,San Francisco,CA,57.0
-06075,San Francisco,CA,57.2
-06075,San Francisco,CA,54.9
-06075,San Francisco,CA,52.9
-06075,San Francisco,CA,55.1
-06075,San Francisco,CA,55.7
-06075,San Francisco,CA,56.1
-06075,San Francisco,CA,60.1
-06075,San Francisco,CA,54.0
-06075,San Francisco,CA,57.0
-06075,San Francisco,CA,52.1
-06075,San Francisco,CA,54.2
-06075,San Francisco,CA,56.7
-06075,San Francisco,CA,57.9
-06075,San Francisco,CA,57.1
-06075,San Francisco,CA,55.5
-06075,San Francisco,CA,52.1
-06075,San Francisco,CA,55.0
 48235,Irion,TX,84.3
 48309,McLennan,TX,86.3
 48173,Glasscock,TX,83.4
@@ -53,7 +23,6 @@ fips_code,county_name,state,temperature
 36005,Bronx,NY,82.7
 06035,Lassen,CA,67.8
 36103,Suffolk,NY,78.0
-48421,Sherman,TX,78.4
 06113,Yolo,CA,83.2
 06063,Plumas,CA,70.8
 36027,Dutchess,NY,77.1
@@ -63,10 +32,8 @@ fips_code,county_name,state,temperature
 36113,Warren,NY,71.7
 36041,Hamilton,NY,69.5
 36089,St. Lawrence,NY,73.1
-36089,St. Lawrence,NY,70.7
 36093,Schenectady,NY,66.5
 36075,Oswego,NY,70.9
-36043,Herkimer,NY,65.3
 48443,Terrell,TX,70.9
 48471,Walker,TX,72.2
 48413,Schleicher,TX,65.7
@@ -86,13 +53,11 @@ fips_code,county_name,state,temperature
 48159,Franklin,TX,67.7
 48219,Hockley,TX,64.2
 48345,Motley,TX,67.6
-48197,Hardeman,TX,68.8
 06073,San Diego,CA,76.7
 48075,Childress,TX,68.4
 48369,Parmer,TX,64.2
 48129,Donley,TX,66.8
 06059,Orange,CA,73.2
-48483,Wheeler,TX,66.6
 48211,Hemphill,TX,66.7
 06111,Ventura,CA,75.2
 48295,Lipscomb,TX,65.4
