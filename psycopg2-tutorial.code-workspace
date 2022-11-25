@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.defaultInterpreterPath": "/home/jonathan/miniconda3/envs/psql_tutorial/bin/python"
+	  }
+}
