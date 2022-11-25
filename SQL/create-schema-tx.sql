@@ -31,3 +31,15 @@ SET
     temperature=excluded.temperature,
     updated_at=NOW()
 ;
+
+
+
+
+DROP SCHEMA texas CASCADE;
+--DROP TABLE IF EXISTS texas.weather_county;
+
+
+SELECT s.catalog_name, s.schema_owner, s.schema_name, t.table_name
+FROM information_schema.schemata s
+JOIN information_schema.tables t ON s.catalog_name = t.table_catalog and s.schema_name = t.table_schema
+WHERE schema_owner = 'johnnyboycurtis';
