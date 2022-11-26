@@ -2,7 +2,7 @@
 
 Basic tutorial on how to use [`psycopg2`](https://www.psycopg.org/docs/index.html) to connect to a PostgreSQL database and make changes.
 
-This repo is part of the YouTube video [How to connect to PSQL DB using psycopg2](https://www.youtube.com/)
+This repo is part of the YouTube video [How to connect to PSQL DB using psycopg2](https://www.youtube.com/watch?v=eSSSaD0V9fI)
 
 
 ![Youtube logo](images/cover.jpg)
